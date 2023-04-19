@@ -35,7 +35,6 @@
 5. https://www.sourcetreeapp.com/
 6. https://ihower.tw/blog/archives/5140
 
-
 ### Document files
 
 1. [Git-Flow](/res/GitFlow.pdf)
