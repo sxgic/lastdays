@@ -26,7 +26,7 @@
 10. https://www.hostbuf.com/
 11. https://filezilla-project.org/
 
-### version ctronl
+### Version ctronl
 
 1. https://tortoisegit.org/
 2. https://gitforwindows.org/
@@ -36,7 +36,7 @@
 6. https://ihower.tw/blog/archives/5140
 
 
-### files
+### Document files
 
 1. [Git-Flow](/res/GitFlow.pdf)
-2. [Git-branching-model](Git-branching-model.pdf)
+2. [Git-branching-model](/res/Git-branching-model.pdf)
